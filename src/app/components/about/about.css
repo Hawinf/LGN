@@ -1,0 +1,45 @@
+.about-section {
+    color: rgb(46, 43, 43);
+    margin: 0 90px;
+}
+.about-line {
+    border: 1px solid rgb(174, 148, 148);
+    height: 80px;
+    width: 1px;
+    margin-bottom: 30px;
+}
+.about-section h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+.about-section p {
+    font-family: Interregular;
+    margin-top: 30px;
+    width: 75%;
+    margin-bottom: 30px;
+}
+.about-section .about-more {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 19px;
+    border: 2px solid rgb(174, 148, 148);
+    padding: 7px;
+}
+.about-section .about-more:hover {
+    color: rgb(187, 95, 95);
+    border: 2px solid rgb(187, 95, 95);
+    font-weight: bold;
+}
+
+@media (max-width:768px) {
+    .about-section {
+        margin: 0 60px;
+    }
+    .about-section p {
+        width: 85%;
+    }
+}
+@media (max-width: 576px) {
+    .about-section {
+        margin: 0 25px;
+    }
+}

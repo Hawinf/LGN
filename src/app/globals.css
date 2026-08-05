@@ -5,9 +5,25 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
+    --background: #efe4e4;
     --foreground: #ededed;
   }
+}
+@font-face {
+  font-family: "Birthstone";
+  src: url("../../public/fonts/Birthstone-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Interthin";
+  src: url("../../public/fonts/Inter_28pt-Thin.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Interxtrabold";
+  src: url("../../public/fonts/Inter_28pt-ExtraBold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Interregular";
+  src: url("../../public/fonts/Inter_28pt-Regular.ttf") format("truetype");
 }
 
 html {

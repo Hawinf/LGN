@@ -1,0 +1,121 @@
+.container-product {
+    margin: 80px;
+}
+.long-line {
+    border: 1px solid rgb(174, 148, 148);
+    height: 1px;
+    width: 40%;
+    margin-bottom: 30px;
+    right: 10%;
+    position: absolute;
+}
+.product-tittle {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: black;
+    margin-bottom: 30px;
+}
+.container-product p {
+    color: rgb(79, 75, 69);
+    font-family: Interregular;
+    width: 75%;
+}
+.section-product {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    flex-wrap: wrap;
+}
+.flip-card {
+    background-color: transparent;
+    width: 300px;
+    height: 300px;
+    border: 1px solid #f1f1f1;
+    perspective: 1000px; /* Remove this if you don't want the 3D effect */
+    margin-bottom: 10px;
+    border-radius: 10px;
+    margin: 10px;
+  }
+  
+  /* This container is needed to position the front and back side */
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+  }
+  
+  /* Do an horizontal flip when you move the mouse over the flip box container */
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  .flip-card-front {
+    border-radius: 10px;
+  }
+  .flip-card-front .product-frame {
+    border-radius: 10px;
+    width: 100%;
+  }
+  /* Position the front and back side */
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden; /* Safari */
+    backface-visibility: hidden;
+  }
+  
+  /* Style the front side (fallback if image is missing) */
+  .flip-card-front {
+    background-color: #bbb;
+    color: black;
+  }
+  
+  /* Style the back side */
+  .flip-card-back {
+    background-color: rgba(79, 75, 69, 0.459);
+    color: white;
+    transform: rotateY(180deg);
+    height: 300px;
+    border-radius: 10px;
+    padding: 20px;
+  }
+  .flip-card-back h1 {
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 20px;
+  }
+  .flip-card-back p {
+    font-family: Interthin;
+    margin-bottom: 20px;
+    border-bottom: 1px solid white;
+    padding-bottom: 10px;
+    width: 100%;
+  }
+
+  @media (max-width:768px) {
+    .flip-card {
+        width: 80%;
+        height: 300px;
+      }
+    .flip-card-front .product-frame {
+        width: 100%;
+      }
+    .container-product {
+        margin: 50px 60px;
+    }
+    .container-product p {
+        width: 85%;
+    }
+  }
+
+  @media (max-width: 576px) {
+    .flip-card {
+        width: 100%;
+        margin: 2px;
+    }
+    .container-product {
+        margin: 50px 25px;
+    }
+}

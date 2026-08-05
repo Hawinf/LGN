@@ -1,0 +1,14 @@
+.container-footer {
+    background-color: rgba(79, 75, 69, 0.459);
+    padding: 30px 80px;
+    font-family: Interregular;
+}
+@media (max-width:768px) {
+    .container-footer {
+        padding: 20px;
+
+    }
+    .container-footer p {
+        font-size: 12px;
+    }
+}

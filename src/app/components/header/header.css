@@ -1,0 +1,42 @@
+.Section-header {
+    height: 400px;
+    background:
+        linear-gradient(
+            rgba(0, 0, 0, 0.55),
+            rgba(0, 0, 0, 0.55)
+        ),
+        url("/pictures/header.jpg");
+
+    background-size: cover;
+}
+.Section-header {
+    padding-left: 90px;
+}
+.Section-header h1 {
+    padding-top: 100px;
+    width: 55%;
+    font-family: Interxtrabold;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.Section-header .header-inquiry {
+    border: 2px solid white;
+    padding: 7px 10px;
+    font-family: Interxtrabold;
+    letter-spacing: 3px;
+}
+.Section-header .header-inquiry:hover {
+    color: wheat;
+    border: 2px solid wheat;
+}
+
+@media (max-width:768px) {
+    .Section-header {
+        padding: 40px 10px;
+        text-align: center;
+    }
+    .Section-header h1 {
+        font-size: 30px;
+        width: 100%;
+    } 
+}

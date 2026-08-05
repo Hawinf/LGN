@@ -1,0 +1,67 @@
+.container-contact {
+    background-image: url("/pictures/contact-bg.jpg");
+    padding: 80px;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+}
+.card-contact {
+    background-color: rgba(174, 148, 148, 0.439);
+    padding: 70px 20px;
+    width: 70%;
+}
+.card-detail {
+    background-color: rgba(174, 148, 148, 0.771);
+    padding: 70px 20px;
+    width: 30%;
+}
+.card-detail h2 {
+    font-family: Interxtrabold;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.card-detail p {
+    font-family: Interregular;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+.card-contact h2 {
+    font-family: Interxtrabold;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.card-contact p {
+    margin-bottom: 34px;
+    font-family: Interregular;
+    width: 75%;
+}
+.card-contact a {
+    font-family: Interxtrabold;
+    border: 2px solid white;
+    padding: 7px;
+}
+.card-contact a:hover {
+    border: 2px solid wheat;
+    color: wheat;
+}
+@media (max-width:768px) {
+    .container-contact {
+        display: block;
+        padding: 0;
+    }
+    .card-contact {
+        width: 100%;
+    }
+    .card-contact p {
+        width: 100%;
+    }
+    .card-detail {
+        width: 100%;
+        padding: 20px;
+    }
+    .card-detail h2 {
+        font-size: 30px;
+        border-bottom: 2px solid rgba(79, 75, 69, 0.459);
+        padding: 20px 0;
+    }
+}
