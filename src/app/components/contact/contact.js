@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import './contact.css'
+import Image from 'next/image';
 
 export default function Contact() {
   return (
@@ -11,10 +12,28 @@ export default function Contact() {
       </div>
       <div className='card-detail'>
         <h2>CONTACT US</h2>
-        <p>📍 Pekalongan, Central Java Indonesia</p>
-        <p><Link href=''>📧 Emailsales@landsnature.com</Link></p>
-        <p>📞 Phone +62 851-8053-6776 | Indonesia</p>
-        <p>&emsp;&nbsp;Phone +971 50 684 1998 | Dubai, AE</p>
+        <p>Address : Pekalongan, Central Java Indonesia</p>
+        <p><Link href=''>Email : Emailsales@landsnature.com</Link></p>
+        <p>Phone : +62 851-8053-6776 | Indonesia</p>
+        <p>&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +971 50 684 1998 | Dubai, AE</p>
+        <div className='card-social'>
+            <Link href=''><Image 
+                className="social-item"
+                src="/pictures/instagram.png"
+                alt="Instagram"
+                width={30}
+                height={30} 
+            />
+            </Link>
+            <Link href=''><Image 
+                className="social-item"
+                src="/pictures/youtube.png"
+                alt="Instagram"
+                width={30}
+                height={30} 
+            />
+            </Link>
+        </div>
       </div>
     </div>
   );

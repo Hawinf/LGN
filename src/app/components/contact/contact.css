@@ -24,6 +24,8 @@
     font-family: Interregular;
     margin-bottom: 15px;
     font-size: 14px;
+    font-size: 19px;
+    line-height: 30px;
 }
 .card-contact h2 {
     font-family: Interxtrabold;
@@ -34,6 +36,8 @@
     margin-bottom: 34px;
     font-family: Interregular;
     width: 75%;
+    font-size: 19px;
+    line-height: 30px;
 }
 .card-contact a {
     font-family: Interxtrabold;
@@ -43,6 +47,13 @@
 .card-contact a:hover {
     border: 2px solid wheat;
     color: wheat;
+}
+.card-social {
+    border-top: 1px solid white;
+}
+.social-item {
+    margin-right: 10px;
+    margin-top: 20px;
 }
 @media (max-width:768px) {
     .container-contact {
@@ -61,7 +72,7 @@
     }
     .card-detail h2 {
         font-size: 30px;
-        border-bottom: 2px solid rgba(79, 75, 69, 0.459);
+        border-bottom: 1px solid white;
         padding: 20px 0;
     }
 }

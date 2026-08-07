@@ -1,4 +1,4 @@
-.Section-navbar {
+/* .Section-navbar {
     color: rgb(213, 198, 198);
     display: flex;
     justify-content: space-between;
@@ -32,6 +32,53 @@
     line-height: 1px;
     font-size: 20px;
 }
+
+
+
+
+.Navbar-right{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100vh;
+    background:rgb(189, 183, 174);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    opacity:0;
+    visibility:hidden;
+    transition:.35s ease;
+    z-index:999;
+}
+.Navbar-right.active{
+    opacity:1;
+    visibility:visible;
+}
+.nav-links{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:40px;
+    list-style:none;
+}
+
+.nav-links a{
+    text-decoration:none;
+    color:#111;
+    font-size:32px;
+    font-weight:600;
+}
+.Section-navbar{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    z-index:1000;
+}
+
+
+
 .Navbar-right h3 {
     font-family: Interthin;
     margin-top: 5px;
@@ -101,4 +148,187 @@
         font-size: 15px;
         letter-spacing: 6px;
     }
+} */
+
+
+.Section-navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    position:fixed;
+    top:0;
+    left:0;
+
+    width:100%;
+    padding:15px 5%;
+
+    background:rgba(79,75,69,.45);
+
+    z-index:1000;
+
+    transition:.3s ease;
+}
+
+.Section-navbar.scrolled{
+    background:rgba(255,255,255,.95);
+    backdrop-filter:blur(12px);
+    box-shadow:0 5px 20px rgba(0,0,0,.08);
+}
+
+/* ========================= */
+/* Logo */
+/* ========================= */
+
+.Navbar-left a{
+    text-decoration:none;
+    color:white;
+}
+
+.Section-navbar.scrolled .Navbar-left a{
+    color:#222;
+}
+
+.Navbar-left h3{
+    font-family:Interthin;
+    letter-spacing:3px;
+    font-size:30px;
+}
+
+.Navbar-left h5{
+    font-family:Birthstone;
+    letter-spacing:8px;
+    line-height:1;
+    font-size:20px;
+}
+
+/* ========================= */
+/* Hamburger */
+/* ========================= */
+
+.menu-toggle{
+    font-size:34px;
+    color:white;
+    cursor:pointer;
+    z-index:1001;
+    user-select:none;
+}
+
+.Section-navbar.scrolled .menu-toggle{
+    color:#222;
+}
+
+/* ========================= */
+/* Full Screen Menu */
+/* ========================= */
+
+.Navbar-right{
+
+    position:fixed;
+
+    top:0;
+    left:0;
+
+    width:100%;
+    height:100vh;
+
+    background:rgb(79,75,69);
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    opacity:0;
+    visibility:hidden;
+
+    transition:.35s ease;
+
+    z-index:999;
+}
+
+.Navbar-right.active{
+
+    opacity:1;
+    visibility:visible;
+
+}
+
+/* ========================= */
+/* Menu */
+/* ========================= */
+
+.nav-links{
+
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+
+    gap:35px;
+
+    list-style:none;
+}
+
+.nav-links li{
+    list-style:none;
+}
+
+.nav-links a{
+
+    text-decoration:none;
+
+    color:white;
+
+    font-family:Interthin;
+
+    font-size:32px;
+
+    transition:.3s;
+}
+
+.nav-links a:hover{
+
+    color:#d9c7b3;
+
+}
+
+/* ========================= */
+/* Copyright */
+/* ========================= */
+
+.nav-copyright{
+
+    margin-top:40px;
+
+    color:white;
+
+    font-size:13px;
+
+    font-family:Interthin;
+
+    text-align:center;
+}
+
+/* ========================= */
+/* Mobile */
+/* ========================= */
+
+@media (max-width:576px){
+
+    .Navbar-left h3{
+        font-size:20px;
+    }
+
+    .Navbar-left h5{
+        font-size:15px;
+        letter-spacing:6px;
+    }
+
+    .nav-links a{
+        font-size:28px;
+    }
+
+    .menu-toggle{
+        font-size:30px;
+    }
+
 }
