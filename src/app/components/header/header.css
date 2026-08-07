@@ -18,12 +18,14 @@
     font-family: Interxtrabold;
     font-size: 40px;
     margin-bottom: 30px;
+    color: white;
 }
 .Section-header .header-inquiry {
     border: 2px solid white;
     padding: 7px 10px;
     font-family: Interxtrabold;
     letter-spacing: 3px;
+    color: white;
 }
 .Section-header .header-inquiry:hover {
     color: wheat;
