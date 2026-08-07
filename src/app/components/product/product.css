@@ -15,7 +15,14 @@
     color: black;
     margin-bottom: 30px;
 }
-.container-product p {
+.container-product .product-desc {
+    color: rgb(79, 75, 69);
+    font-family: Interregular;
+    font-size: 19px;
+    width: 85%;
+    line-height: 30px;
+}
+.flip-card-back p {
     color: rgb(79, 75, 69);
     font-family: Interregular;
 }

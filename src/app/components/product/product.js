@@ -7,14 +7,14 @@ export default function Product() {
     <div className="container-product">
         <div className="long-line"></div>
         <h1 className="product-tittle">OUR PRODUCTS</h1>
-        <p>We are committed to delivering premium coconut products manufactured from carefully selected Indonesian coconuts and produced under strict international quality standards. Our product portfolio includes high-quality coconut charcoal briquettes, coconut milk & cream, Virgin Coconut Oil (VCO), Refined, Bleached & Deodorized (RBD) Coconut Oil, and other coconut-derived products designed to meet the diverse needs of global industries. With a strong focus on quality, sustainability, and reliable export services, we supply importers, wholesalers, distributors, retailers, and manufacturers worldwide. Whether for food and beverage, cosmetics, hospitality, energy, or industrial applications, our coconut products are trusted for their exceptional quality, consistency, and sustainable sourcing.</p>
+        <p className="product-desc">We are committed to delivering premium coconut products manufactured from carefully selected Indonesian coconuts and produced under strict international quality standards. Our product portfolio includes high-quality coconut charcoal briquettes, coconut milk & cream, Virgin Coconut Oil (VCO), Refined, Bleached & Deodorized (RBD) Coconut Oil, and other coconut-derived products designed to meet the diverse needs of global industries. With a strong focus on quality, sustainability, and reliable export services, we supply importers, wholesalers, distributors, retailers, and manufacturers worldwide. Whether for food and beverage, cosmetics, hospitality, energy, or industrial applications, our coconut products are trusted for their exceptional quality, consistency, and sustainable sourcing.</p>
         <div className="section-product">
             <div className="flip-card">
                 <div className="flip-card-inner">
                     <div className="flip-card-front">
                     <Image
                         className="product-frame"
-                        src="/pictures/charcoal.jpg"
+                        src="/pictures/header.jpg"
                         alt="Header"
                         width={300}
                         height={300} 
