@@ -13,7 +13,7 @@ export default function Contact() {
       <div className='card-detail'>
         <h2>CONTACT US</h2>
         <p>Address : Pekalongan, Central Java Indonesia</p>
-        <p><Link href=''>Email : Emailsales@landsnature.com</Link></p>
+        <p><Link href=''>Email : info@landsnature.id</Link></p>
         <p>Phone : +62 851-8053-6776 | Indonesia</p>
         <p>&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +971 50 684 1998 | Dubai, AE</p>
         <div className='card-social'>
