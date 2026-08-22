@@ -17,7 +17,9 @@ export const metadata = {
 
   description:
     "Leading Indonesian manufacturer and exporter of premium coconut charcoal briquettes, coconut milk cream, virgin coconut oil, and high-quality coconut products for the global market.",
-
+  icons: {
+      icon: "/logo.PNG",
+  },
   keywords: [
     "coconut products",
     "coconut charcoal briquettes",
