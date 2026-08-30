@@ -5,6 +5,7 @@ import About from "./components/about/about";
 import Product from "./components/product/product";
 import Contact from "./components/contact/contact";
 import Footer from "./components/footer/footer";
+import Why from "./components/why/why";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <Navbar />
       <Header />
       <About />
+      <Why />
       <Product />
       <Contact />
       <Footer />
