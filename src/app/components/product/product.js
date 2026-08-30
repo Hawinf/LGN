@@ -64,6 +64,7 @@ export default function Product() {
                 </div>
             </div>
         </div>
+        <Link href='' className="more-products">More Products &#x2198;</Link>
     </div>
   );
 }
