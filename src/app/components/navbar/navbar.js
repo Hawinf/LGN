@@ -53,7 +53,7 @@ export default function Navbar() {
                 </li>
 
                 <li>
-                    <Link href="/" onClick={() => setToggleMenu(false)}>
+                    <Link href='mailto:info@landsnature.id' onClick={() => setToggleMenu(false)}>
                         Contact
                     </Link>
                 </li>

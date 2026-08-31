@@ -13,11 +13,11 @@ export default function Contact() {
       <div className='card-detail'>
         <h2>CONTACT US</h2>
         <p>Address : Pekalongan, Central Java Indonesia</p>
-        <p><Link href=''>Email : info@landsnature.id</Link></p>
+        <p><Link href='mailto:info@landsnature.id'>Email : info@landsnature.id</Link></p>
         <p>Phone : +62 851-8053-6776 | Indonesia</p>
         <p>&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +971 50 684 1998 | Dubai, AE</p>
         <div className='card-social'>
-            <Link href=''><Image 
+            <Link href='https://www.instagram.com/landsnature.id/'><Image 
                 className="social-item"
                 src="/pictures/instagram.png"
                 alt="Instagram"
@@ -25,14 +25,14 @@ export default function Contact() {
                 height={30} 
             />
             </Link>
-            <Link href=''><Image 
+            {/* <Link href=''><Image 
                 className="social-item"
                 src="/pictures/youtube.png"
                 alt="Instagram"
                 width={30}
                 height={30} 
             />
-            </Link>
+            </Link> */}
         </div>
       </div>
     </div>
