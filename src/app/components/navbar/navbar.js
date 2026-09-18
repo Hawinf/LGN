@@ -24,7 +24,7 @@ export default function Navbar() {
         <nav className="Section-navbar">
             <div className="Navbar-left">
                 <Link href='/'>
-                    <h3>LANDSNATURE</h3>
+                    <h3>&#9752; LN</h3>
                     <h5>Global Nusantara</h5>
                 </Link>
             </div>
