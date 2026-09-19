@@ -7,14 +7,16 @@ import ProductCard from "./components/product/ProductCard";
 import Contact from "./components/contact/contact";
 import Footer from "./components/footer/footer";
 import Why from "./components/why/why";
+import ComingSoon from "./page/csoon/ComingSoon";
 
 export default function Home() {
   return (
     <div>
-      <Navbar />
+      <ComingSoon />
+      {/* <Navbar />
       <Header />
       <Product />
-      <Footer />
+      <Footer /> */}
     </div>
   );
 }
