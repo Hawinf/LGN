@@ -41,19 +41,19 @@ export default function Navbar() {
             <ul className="nav-links">
 
                 <li>
-                    <Link href="/" onClick={() => setToggleMenu(false)}>
+                    <Link href="/page/about" onClick={() => setToggleMenu(false)}>
                         About
                     </Link>
                 </li>
 
                 <li>
-                    <Link href="/" onClick={() => setToggleMenu(false)}>
+                    <Link href="/page/productpage" onClick={() => setToggleMenu(false)}>
                         Products
                     </Link>
                 </li>
 
                 <li>
-                    <Link href='mailto:info@landsnature.id' onClick={() => setToggleMenu(false)}>
+                    <Link href='/components/contact' onClick={() => setToggleMenu(false)}>
                         Contact
                     </Link>
                 </li>

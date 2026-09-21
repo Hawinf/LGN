@@ -37,6 +37,7 @@
     font-size: 52px;
     line-height: 1.1;
     margin: 15px 0 25px;
+    color: #555;;
   }
   
   .product-detail-description {
@@ -73,6 +74,7 @@
   .product-detail-meta strong {
     font-size: 17px;
     font-weight: 500;
+    color: #555;;
   }
   
   .product-detail-full {

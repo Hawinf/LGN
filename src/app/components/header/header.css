@@ -1,56 +1,317 @@
-.Section-header {
-    height: 400px;
-    background:
-        linear-gradient(
-            rgba(0, 0, 0, 0.55),
-            rgba(0, 0, 0, 0.55)
-        ),
-        url("/pictures/walpaper.jpg");
-
+.hero {
+    position: relative;
+    width: 100%;
+    min-height: 720px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    background-image: url("/pictures/walpaper.jpg");
     background-size: cover;
-}
-.Section-header {
-    padding-left: 90px;
-}
-.Section-header h1 {
-    padding-top: 150px;
-    width: 55%;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 40px;
-
-    background: linear-gradient(135deg, #FFFFFF 0%, #FFD700 50%, #DAA520 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  color: transparent;
-}
-.Section-header p {
-    margin-bottom: 30px;
-    margin-top: 10px;
-    font-family: 'Times New Roman', Times, serif;
-}
-.Section-header .header-inquiry {
-    border: 2px solid white;
-    padding: 7px 10px;
-    font-family: 'Times New Roman', Times, serif;
+    background-position: center;
+  
+    overflow: hidden;
+    color: #ffffff;
+  }
+  
+  /* Dark overlay */
+  
+  .hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(25, 23, 20, 0.58);
+    z-index: 1;
+  }
+  
+  /* Content */
+  
+  .hero-content {
+    position: relative;
+    z-index: 2;
+  
+    width: 90%;
+    max-width: 1050px;
+  
+    text-align: center;
+  
+    margin-top: 40px;
+  }
+  
+  /* Small label */
+  
+  .hero-label {
+    margin-bottom: 25px;
+  
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+  
+    letter-spacing: 5px;
+    text-transform: uppercase;
+  
+    opacity: 0.9;
+  }
+  
+  /* Heading */
+  
+  .hero h1 {
+    margin: 0;
+  
+    font-family: "Times New Roman", serif;
+  
+    font-size: clamp(48px, 7vw, 88px);
+    font-weight: 400;
+  
+    line-height: 1.05;
+    letter-spacing: -2px;
+  }
+  
+  .hero h1 span {
+    display: block;
+  
+    font-style: italic;
+    font-weight: 300;
+  }
+  
+  /* Description */
+  
+  .hero-description {
+    max-width: 680px;
+  
+    margin: 30px auto 0;
+  
+    font-family: Arial, sans-serif;
+  
+    font-size: 16px;
+    line-height: 1.8;
+  
+    color: rgba(255, 255, 255, 0.88);
+  }
+  
+  /* Buttons */
+  
+  .hero-buttons {
+    display: flex;
+  
+    justify-content: center;
+    align-items: center;
+  
+    gap: 15px;
+  
+    margin-top: 38px;
+  }
+  
+  .hero-btn {
+    display: inline-flex;
+  
+    align-items: center;
+    justify-content: center;
+  
+    min-width: 170px;
+    padding: 14px 28px;
+  
+    text-decoration: none;
+  
+    font-family: Arial, sans-serif;
+  
+    font-size: 12px;
+    font-weight: 500;
+  
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  
+    transition: all 0.3s ease;
+  }
+  
+  /* Primary */
+  
+  .hero-btn.primary {
+    background: #ffffff;
+    color: #292621;
+  }
+  
+  .hero-btn.primary:hover {
+    background: #e8e3dc;
+  }
+  
+  /* Secondary */
+  
+  .hero-btn.secondary {
+    border: 1px solid rgba(255, 255, 255, 0.7);
+  
+    color: #ffffff;
+  
+    background: rgba(255, 255, 255, 0.04);
+  }
+  
+  .hero-btn.secondary:hover {
+    background: #ffffff;
+    color: #292621;
+  }
+  
+  /* Bottom information */
+  
+  .hero-bottom {
+    position: absolute;
+  
+    z-index: 2;
+  
+    bottom: 35px;
+  
+    left: 5%;
+    right: 5%;
+  
+    display: flex;
+  
+    align-items: center;
+  
+    gap: 18px;
+  
+    font-family: Arial, sans-serif;
+  
+    font-size: 10px;
+  
     letter-spacing: 3px;
-    border-radius: 5px;
-
-    background: linear-gradient(135deg, #0f0c1b 0%, #9a782a 50%, #4a370e 100%);
-
-}
-.Section-header .header-inquiry:hover {
-    color: wheat;
-    border: 2px solid wheat;
-}
-
-@media (max-width:768px) {
-    .Section-header {
-        padding: 40px 10px;
-        text-align: center;
+  
+    color: rgba(255, 255, 255, 0.75);
+  }
+  
+  .hero-line {
+    width: 80px;
+    height: 1px;
+  
+    background: rgba(255, 255, 255, 0.5);
+  }
+  
+  
+  /* =========================
+     TABLET
+  ========================= */
+  
+  @media (max-width: 768px) {
+    .hero {
+      min-height: 650px;
+  
+      background-position: center;
     }
-    .Section-header h1 {
-        font-size: 30px;
-        width: 100%;
-    } 
-}
+  
+    .hero-content {
+      width: 88%;
+      margin-top: 30px;
+    }
+  
+    .hero-label {
+      font-size: 10px;
+      letter-spacing: 3px;
+  
+      margin-bottom: 20px;
+    }
+  
+    .hero h1 {
+      font-size: clamp(42px, 10vw, 64px);
+  
+      letter-spacing: -1px;
+    }
+  
+    .hero-description {
+      font-size: 14px;
+      line-height: 1.7;
+  
+      margin-top: 25px;
+    }
+  
+    .hero-buttons {
+      margin-top: 30px;
+    }
+  
+    .hero-btn {
+      min-width: 150px;
+  
+      padding: 13px 20px;
+  
+      font-size: 10px;
+    }
+  
+    .hero-bottom {
+      bottom: 25px;
+  
+      font-size: 8px;
+      letter-spacing: 2px;
+    }
+  
+    .hero-line {
+      width: 45px;
+    }
+  }
+  
+  
+  /* =========================
+     MOBILE
+  ========================= */
+  
+  @media (max-width: 480px) {
+    .hero {
+      min-height: 620px;
+    }
+  
+    .hero-content {
+      width: 90%;
+    }
+  
+    .hero-label {
+      font-size: 9px;
+  
+      letter-spacing: 2.5px;
+  
+      margin-bottom: 18px;
+    }
+  
+    .hero h1 {
+      font-size: 43px;
+  
+      line-height: 1.08;
+    }
+  
+    .hero-description {
+      font-size: 13px;
+  
+      line-height: 1.7;
+  
+      margin-top: 22px;
+    }
+  
+    .hero-buttons {
+      flex-direction: column;
+  
+      width: 100%;
+  
+      gap: 10px;
+  
+      margin-top: 28px;
+    }
+  
+    .hero-btn {
+      width: 100%;
+  
+      max-width: 260px;
+  
+      padding: 14px 20px;
+    }
+  
+    .hero-bottom {
+      left: 5%;
+      right: 5%;
+  
+      justify-content: center;
+  
+      gap: 10px;
+  
+      font-size: 7px;
+  
+      letter-spacing: 1.5px;
+    }
+  
+    .hero-line {
+      width: 25px;
+    }
+  }

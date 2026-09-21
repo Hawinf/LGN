@@ -1,97 +1,97 @@
 const products = [
   {
     id: 1,
-    slug: "coconut-charcoal-briquette-cube",
-    name: "Coconut Charcoal Briquette Cube",
-    category: "Charcoal Briquette",
-    material: "Coconut Shell",
+    slug: "wall-ceiling-bamboo",
+    name: "Wall and Ceiling Bamboo",
+    category: "Bamboo Crafts",
+    material: "Bamboo",
 
     price: 1200,
     priceLabel: "Contact for Price",
 
-    image: "/pictures/header.jpg",
+    image: "/pictures/upcoming.jpg",
 
     shortDescription:
-      "Premium coconut shell charcoal briquettes suitable for shisha and hookah markets.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
 
     description:
-      "Our coconut charcoal briquettes are manufactured from selected Indonesian coconut shells. The product is designed to provide consistent heat, long burning time, and low ash content for international shisha and hookah markets.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
   },
 
   {
     id: 2,
-    slug: "coconut-charcoal-briquette-hexagonal",
-    name: "Coconut Charcoal Briquette Hexagonal",
-    category: "Charcoal Briquette",
-    material: "Coconut Shell",
+    slug: "rattan-chair",
+    name: "Rattan Chair",
+    category: "Rattan Crafts",
+    material: "Rattan",
 
     price: 950,
     priceLabel: "Contact for Price",
 
-    image: "/pictures/header.jpg",
+    image: "/pictures/upcoming.jpg",
 
     shortDescription:
-      "Premium hexagonal coconut shell charcoal briquettes for global markets.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
 
     description:
-      "Produced from carefully selected coconut shells, our hexagonal briquettes offer stable burning performance and consistent quality for commercial applications.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
   },
 
   {
     id: 3,
-    slug: "virgin-coconut-oil",
-    name: "Virgin Coconut Oil",
-    category: "Coconut Oil",
-    material: "Fresh Coconut",
+    slug: "shopping-bag",
+    name: "Shopping Bag",
+    category: "Woven Bags",
+    material: "Pandan",
 
     price: 1800,
     priceLabel: "Contact for Price",
 
-    image: "/pictures/header.jpg",
+    image: "/pictures/upcoming.jpg",
 
     shortDescription:
-      "Premium Indonesian virgin coconut oil for food, cosmetic, and private label markets.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
 
     description:
-      "Our Virgin Coconut Oil is produced from selected Indonesian coconuts and is suitable for food, cosmetic, wellness, and private label applications.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
   },
 
   {
     id: 4,
-    slug: "rbd-coconut-oil",
-    name: "RBD Coconut Oil",
-    category: "Coconut Oil",
-    material: "Copra",
+    slug: "ceramic",
+    name: "Ceramic",
+    category: "Pottery & Ceramics",
+    material: "Clay",
 
     price: 1500,
     priceLabel: "Contact for Price",
 
-    image: "/pictures/header.jpg",
+    image: "/pictures/upcoming.jpg",
 
     shortDescription:
-      "Refined, bleached, and deodorized coconut oil for food and industrial applications.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
 
     description:
-      "Our RBD Coconut Oil is processed for consistent quality and is suitable for food manufacturing and various industrial applications.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
   },
 
   {
     id: 5,
-    slug: "coconut-milk",
-    name: "Coconut Milk",
-    category: "Coconut Milk & Cream",
-    material: "Fresh Coconut",
+    slug: "furniture",
+    name: "Furniture",
+    category: "Home Decor",
+    material: "Rattan",
 
     price: 1100,
     priceLabel: "Contact for Price",
 
-    image: "/pictures/header.jpg",
+    image: "/pictures/upcoming.jpg",
 
     shortDescription:
-      "Rich Indonesian coconut milk suitable for food service and industrial applications.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
 
     description:
-      "Produced from selected mature Indonesian coconuts, our coconut milk delivers rich coconut flavor and is suitable for food service and industrial applications.",
+      "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
   },
 ];
 
