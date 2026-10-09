@@ -81,7 +81,11 @@
     line-height: 1.8;
     color: #555;
   }
-  
+  .product-details-list {
+    line-height: 1.8;
+    color: #555;
+    margin-bottom: 30px;
+  }
   .product-detail-actions {
     display: flex;
     gap: 15px;

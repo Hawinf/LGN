@@ -84,6 +84,23 @@ export default async function ProductDetail({ params }) {
 
           </div>
 
+          {/* test */}
+          {product.productDetails && product.productDetails.length > 0 && (
+            <div className="product-details-list">
+              <h3>Product Details</h3>
+
+              <ul>
+                {product.productDetails.map((detail, index) => (
+                  <li key={index}>
+                    <strong>{detail.label}:</strong> {detail.value}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          {/* test */}
+
 
           <p className="product-detail-full">
             {product.description ||

@@ -109,7 +109,7 @@
 }
 
 .product-image img {
-  object-fit: cover;
+  /* object-fit: cover; */
   transition: 0.5s;
 }
 
