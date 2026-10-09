@@ -429,7 +429,7 @@ const productContent = ( <section className="product-section" id="products">
       </div>
 
 
-      <div className="filter-group">
+      {/* <div className="filter-group">
 
         <h3>Price Range</h3>
 
@@ -492,7 +492,7 @@ const productContent = ( <section className="product-section" id="products">
           Above $2000
         </label>
 
-      </div>
+      </div> */}
 
     </aside>
 
