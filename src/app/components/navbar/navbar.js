@@ -53,6 +53,12 @@ export default function Navbar() {
                 </li>
 
                 <li>
+                    <Link href="/page/artisan" onClick={() => setToggleMenu(false)}>
+                        Our Artisans
+                    </Link>
+                </li>
+
+                <li>
                     <Link href='/components/contact' onClick={() => setToggleMenu(false)}>
                         Contact
                     </Link>
