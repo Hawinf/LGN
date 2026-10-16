@@ -31,7 +31,7 @@ const artisans = [
     name: "Santi & Dewi",
     location: "Central Java, Indonesia",
     specialty: "THE SOUL OF BAMBOO",
-    image: "/pictures/artist-santi.jpeg",
+    image: "/pictures/artist-santidewi.jpeg",
     experience: "15+ Years of Craftsmanship",
     story:
       "If you were to ask Santi and Dewi when their love for weaving began, the honest answer is since they were children. Growing up, we weren’t introduced to bamboo weaving because of its high artistic value, all we knew was that our lives depended on it. Our school tuition and daily food were supported by this ancestral rhythm.",
