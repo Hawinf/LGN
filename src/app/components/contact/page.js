@@ -117,10 +117,18 @@ const contactContent = ( <section className="contact-section" id="contact"> <div
         </div>
 
         <div className="contact-detail-item">
+          <span>PHONE</span>
+
+          <a href="https://wa.me/6285180536776">
+            +62 851-8053-6776
+          </a>
+        </div>
+
+        <div className="contact-detail-item">
           <span>BUSINESS</span>
 
           <p>
-            Manufacturer & Exporter
+            Exporter
           </p>
         </div>
 

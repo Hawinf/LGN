@@ -69,7 +69,7 @@ export default function About() {
             <div className="about-intro-text">
 
               <p>
-              Learn about LANDSNATURE, an Indonesian manufacturer and global exporter specializing in premium handcrafted products. We work with skilled local artisans to create authentic Indonesian crafts that combine traditional craftsmanship, quality materials, and contemporary design for customers worldwide.
+              Learn about LANDSNATURE, an Indonesian global exporter specializing in premium handcrafted products. We work with skilled local artisans to create authentic Indonesian crafts that combine traditional craftsmanship, quality materials, and contemporary design for customers worldwide.
               </p>
 
               <p>
@@ -114,14 +114,6 @@ export default function About() {
 
             <p>
             Built on a commitment to quality and consistency, delivering reliable Indonesian products that meet international standards.
-            </p>
-
-            <p>
-            Driven by quality and consistency, we deliver authentic Indonesian products with reliable standards for global markets.
-            </p>
-
-            <p>
-            Built around quality, consistency, and authentic Indonesian craftsmanship, creating products made for the global market.
             </p>
 
           </div>
