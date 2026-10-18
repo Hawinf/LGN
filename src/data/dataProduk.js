@@ -535,6 +535,177 @@ const products = [
     description:
       "Compact round marble dining set is a smart and elegant solution for modern small dining spaces. Made from 100% solid teak wood with a natural light honey finish.Features a round table with luxurious white marble top and matching marble lazy susan in the center for easy serving. Comes with 4 custom curved chairs designed to tuck completely inside the table base, saving up to 60% floor space when not in use. Chairs include comfortable cream fabric cushions with tie-on design.Perfect for apartments, condos, small dining rooms, breakfast nooks, or open-plan kitchens. Combines luxury, functionality, and minimalist design.",
   },
+  {
+    id: 20,
+    slug: "round-carved-teak-wood-dining-set-6-chairs-mosaic-rattan-top-lazy-susan",
+    name: "Round carved teak wood dining set 6 chairs with mosaic rattan top and lazy susan",
+    category: "Dining Room",
+    material: "Teak Wood",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/LNS-CT-0014.png",
+    
+    productDetails: [ { label: "SKU", value: "LNS-CT-014", }, { label: "Material", value: "Teak Wood", }, { label: "Seating", value: "6 persons", }, { label: "Custom", value: "finishing can be natural, varnished, or painted", },],
+
+    shortDescription:
+      "Traditional round dining set for 6 persons made from solid teak wood, featuring carved rattan mosaic table top with matching wooden lazy susan and 6 classic chairs.",
+
+    description:
+      "Round carved teak wood dining set is a classic jepara dining furniture with warm traditional charm. Made from 100% solid teak wood with a glossy medium walnut finish.The round table features a beautiful hand-woven rattan mosaic pattern inlaid around the center, surrounded by carved border detail. Includes a matching solid wood lazy susan for convenient family-style dining. Comes with 6 sturdy chairs with horizontal slat backs and carved floral detail on the top rail.Solid construction, all-wood seating for easy maintenance, and a timeless design that promotes conversation and togetherness. Ideal for family dining rooms, villas, and restaurants seeking an authentic Indonesian teak wood look.",
+  },
+  {
+    id: 21,
+    slug: "luxury-royal-high-back-throne-chair-set-2-chairs-with-stool",
+    name: "Luxury royal high back throne chair set 2 chairs with stool",
+    category: "Wedding Furniture",
+    material: "Teak Wood",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/LNS-CT-022.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LNS-CT-022", }, { label: "Material", value: "Teak Wood", }, { label: "Set includes", value: "2x throne chairs + 1x side stool", }, { label: "Custom", value: "finishing can be natural, varnished, or painted", },],
+
+    shortDescription:
+      "Luxury royal throne chair set made from solid teak wood with high back crown design, gold carved frame and magenta velvet fabric with crystal diamond tufting, includes 2 throne chairs and 1 side stool.",
+
+    description:
+      "Luxury royal high back throne chair set is a majestic statement piece designed for luxury and royal themed interiors. Handcrafted from 100% solid teak wood with heavy baroque carvings on all frames.This set features an extra tall high back throne design, approximately 180cm height, with elegant crown carving on top. Upholstered with premium magenta velvet fabric with deep button tufting decorated with sparkling crystal rhinestones. The entire wooden frame is finished in glossy gold leaf paint, giving a true palace luxury feel.The set consists of 2 single high back throne armchairs and 1 matching small side stool table with gold carved legs. Very comfortable with thick foam cushioning, strong and durable construction.Ideal for wedding stage decoration, bridal throne set, luxury villa lobby, hotel VIP area, photography studio, event decoration, or any space that needs a grand royal touch. Custom color options available for fabric and gold frame.",
+  },
+  {
+    id: 22,
+    slug: "luxury-royal-high-back-throne-chair-set-round-table-gold-velvet",
+    name: "Luxury royal high back throne chair set with round table gold velvet",
+    category: "Wedding Furniture",
+    material: "Teak Wood",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/LNS-CT-023.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LNS-CT-023", }, { label: "Material", value: "Teak Wood", }, { label: "Set includes", value: "2x throne chairs + 1x side stool", }, { label: "Custom", value: "finishing can be natural, varnished, or painted", },],
+
+    shortDescription:
+      "Luxury royal high back throne chair set made from solid teak wood with silver carved frame and mustard gold velvet tufted upholstery, includes 2 throne chairs and 1 round side table.",
+
+    description:
+      "Luxury royal high back throne chair set is a glamorous royal furniture set perfect for luxury events and interiors. Handcrafted from 100% solid teak wood with intricate baroque carvings throughout the frame.Featuring extra high back crown design with deep button tufting upholstery in premium mustard gold velvet fabric. The wooden frame is finished in elegant silver leaf with antique carving details, creating a sophisticated luxury contrast with the gold fabric. Set includes 2 high back single throne armchairs and 1 matching round silver side table with carved pedestal leg.Comfortable, sturdy, and grand - ideal for wedding stage, bridal throne, luxury villa, hotel lobby, photography studio, or VIP event decoration. A true statement piece that brings palace luxury to any space.",
+  },
+  {
+    id: 23,
+    slug: "luxury-royal-high-back-throne-chair-set-crown-carving-red-velvet",
+    name: "Luxury royal high back throne chair set with crown carving red velvet",
+    category: "Wedding Furniture",
+    material: "Teak Wood",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/LNS-CT-024.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LNS-CT-024", }, { label: "Material", value: "Teak Wood", }, { label: "Set includes", value: "2x throne chairs + 1x side stool", }, { label: "Custom", value: "finishing can be natural, varnished, or painted", },],
+
+    shortDescription:
+      "Luxury royal high back throne chair set made from solid teak wood with gold carved frame and red velvet tufted upholstery with crystal buttons and gold crown emblem, includes 2 throne chairs and 1 designer side table.",
+
+    description:
+      "Luxury royal high back throne chair set with crown carving is an opulent throne set designed for royalty and luxury events. Handcrafted from 100% solid teak wood with heavy baroque carvings on legs, arms and crown top.This set features extra tall high back design with royal crown emblem carving on backrest, upholstered in premium red velvet with deep button tufting and crystal rhinestones. The entire frame is finished in glossy gold leaf paint, giving a majestic king and queen throne look. Includes 2 high back throne armchairs and 1 unique flower-shaped side table with gold frame and red velvet base.Perfect for wedding stage, bridal king queen throne, luxury hotel lobby, photography studio, event decoration, or VIP lounge. Customizable fabric color and gold finish available.",
+  },
+  {
+    id: 24,
+    slug: "luxury-royal-carved-bed-frame-tufted-upholstery",
+    name: "Luxury royal carved bed frame with tufted upholstery",
+    category: "Bedroom",
+    material: "Teak Wood",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/LNS-BD-001.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LNS-BD-001", }, { label: "Material", value: "Teak Wood", }, { label: "Size", value: "King size bed", }, { label: "Custom", value: "finishing can be natural, varnished, or painted", },],
+
+    shortDescription:
+      "Luxury royal carved bed frame made from solid teak wood with champagne gold antique finish and cream faux leather tufted headboard and footboard with crystal button detailing.",
+
+    description:
+      "Luxury royal carved bed frame with tufted upholstery is a majestic luxury bed designed for royal bedrooms. Handcrafted from 100% solid teak wood with intricate baroque floral carvings on headboard and footboard.Features curved French style silhouette with high arched headboard and low curved footboard, both upholstered in premium cream off-white faux leather with deep diamond tufting and crystal buttons. Frame finished in white with champagne gold antique highlight and nailhead trim border for luxury detailing.This is a king size bed frame with strong wooden slat base for mattress support. Sturdy, comfortable and very elegant - perfect for luxury villa master bedroom, honeymoon suite, royal palace themed bedroom, or 5 star hotel room. Custom sizes, leather color and finish options available on order.",
+  },
+  {
+    id: 25,
+    slug: "luxury-royal-baroque-bed-set-2-side-tables-cream-gold",
+    name: "Luxury royal baroque bed set with 2 side tables cream and gold",
+    category: "Bedroom",
+    material: "Teak Wood",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/lnsbd005.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LNS-BD-005", }, { label: "Material", value: "Teak Wood", }, { label: "Size", value: "King size bed + 2 side tables", }, { label: "Custom", value: "finishing can be natural, varnished, or painted", },],
+
+    shortDescription:
+      "Luxury royal baroque bed set made from solid teak wood with white and gold carved frame, cream fabric tufted headboard with heavy gold crown carving, includes king size bed and 2 matching bedside tables.",
+
+    description:
+      "Luxury royal baroque bed set with 2 side tables is a complete luxury bedroom set for royal interiors. Handcrafted from 100% solid teak wood with heavy baroque carvings and gold leaf detailing throughout.Featuring high arched headboard with extra large gold crown carving on top and deep diamond button tufting in premium cream fabric, ornate curved footboard with gold antique carvings, and strong wooden slat base for mattress support. The set includes 2 matching bedside tables with 3 drawers, gold carved border and floral detailing.Finished in off-white cream with antique gold highlight - perfect combination for luxury villa, palace bedroom, honeymoon suite, or 5 star hotel room. Very sturdy and majestic design that brings true royalty to your bedroom. Size, fabric color and finish customizable on order.",
+  },
+  {
+    id: 26,
+    slug: "luxury-royal-gold-carved-bed-frame-red-velvet-tufted",
+    name: "Luxury royal gold carved bed frame red velvet tufted",
+    category: "Bedroom",
+    material: "Teak Wood",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/lnsbd006.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LNS-BD-006", }, { label: "Material", value: "Teak Wood", }, { label: "Size", value: "King size bed", }, { label: "Custom", value: "finishing can be natural, varnished, or painted", },],
+
+    shortDescription:
+      "Luxury royal gold carved bed frame made from solid teak wood with full gold finish and wine red velvet deep button tufted upholstery, heavy baroque crown carving on headboard and footboard with crystal buttons.",
+
+    description:
+      "Luxury royal gold carved bed frame red velvet tufted is an opulent king size bed designed for royal and bridal bedrooms. Handcrafted from 100% solid teak wood with heavy baroque floral carvings.Features extra high arched headboard with intricate peacock and floral crown carving, central medallion design, and premium wine red velvet with deep diamond tufting and crystal rhinestones. Low curved footboard with matching heavy gold carvings and red velvet tufted panels with crystal detailing. Strong wooden slat base for mattress support.This maharaja style bed brings true luxury and royalty to any bedroom. Perfect for luxury villa master bedroom, bridal wedding bedroom set, palace themed bedroom, or 5 star hotel honeymoon suite. Finish, fabric color and size fully customizable on order.",
+  },
+  {
+    id: 27,
+    slug: "natural-bali-paras-stone-floral-relief-panel-3d-peony-carving",
+    name: "Natural bali paras stone floral relief panel 3d peony carving",
+    category: "Wall Decor",
+    material: "Natural Stone",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/lnsprs001.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LNS-PRS-001", }, { label: "Material", value: "Natural Stone - Batu paras relief panel", },],
+
+    shortDescription:
+      "Natural bali paras stone floral relief panel hand carved with 3d peony flowers, leaves and bird, cream white paras stone, for luxury interior and exterior wall decor.",
+
+    description:
+      "Natural bali paras stone floral relief panel 3d peony carving is made from original batu paras Bali - natural limestone from Bali, Indonesia. Hand carved by Balinese artisans with high relief 3d technique.Design features large central peony flower with 5 small peony buds, detailed carved leaves, stems and small flying bird on top side. Deep carving with textured rough background and clean double line frame border. Natural cream off-white color of paras stone, porous and soft texture typical of batu paras Jogja Bali.Ideal for luxury villa wall, garden wall, resort wall, hotel lobby, entrance gate, or interior feature wall. Batu paras is famous for its natural cooling, easy to carve and elegant natural look, suitable for indoor and outdoor. This panel can be custom size and design, single piece or continuous pattern. Weather resistant and long lasting.",
+  },
+  {
+    id: 28,
+    slug: "natural-bali-paras-stone-crane-lotus-relief-panel-twin-crane",
+    name: "Natural bali paras stone crane lotus relief panel twin crane",
+    category: "Wall Decor",
+    material: "Natural Stone",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/lnsprs002.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LNS-PRS-002", }, { label: "Material", value: "Natural Stone - Batu paras relief panel", },],
+
+    shortDescription:
+      "Natural bali paras stone relief panel hand carved with twin cranes and lotus flowers design, cream white paras stone, vertical tall panel for luxury wall.",
+
+    description:
+      "Natural bali paras stone crane lotus relief panel twin crane is original batu paras Bali carving, hand made by Balinese artisans.Features two elegant cranes / herons standing among large lotus flowers and leaves, water waves carving in background. Highly detailed feathers, long necks, lotus petals and stems carved in deep 3d relief with textured background. Tall vertical design with clean frame border.Symbolizes peace, longevity and purity in Asian culture - crane and lotus are very popular for resort, villa and spiritual spaces. Perfect for luxury villa entrance wall, garden wall, swimming pool wall, resort lobby, spa, or temple wall. Batu paras Bali natural cream white color, natural porous texture, suitable for interior and exterior, weather resistant.",
+  },
 ];
 
 export default products;
