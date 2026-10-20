@@ -8,7 +8,7 @@ const products = [
 
     priceLabel: "Contact for Price",
 
-    image: "/pictures/wd1.png",
+    image: "/pictures/lnswd001.jpg",
     productDetails: [
       {
         label: "SKU",
@@ -48,7 +48,7 @@ const products = [
 
     priceLabel: "Contact for Price",
 
-    image: "/pictures/LNS-SB-004.png",
+    image: "/pictures/lnssb004.jpg",
     
     productDetails: [ { label: "SKU", value: "LNS-SB-004", }, { label: "Material", value: "Teak Wood", }, ],
 
@@ -123,7 +123,7 @@ const products = [
 
     priceLabel: "Contact for Price",
 
-    image: "/pictures/wd3.png",
+    image: "/pictures/lnscb003.jpg",
     productDetails: [
       {
         label: "SKU",
@@ -164,7 +164,7 @@ const products = [
 
     priceLabel: "Contact for Price",
 
-    image: "/pictures/wd4.png",
+    image: "/pictures/lnscb004.jpg",
     productDetails: [
       {
         label: "SKU",
@@ -246,7 +246,7 @@ const products = [
 
     priceLabel: "Contact for Price",
 
-    image: "/pictures/wd2.png",
+    image: "/pictures/lnscb002.jpg",
     productDetails: [
       {
         label: "SKU",
@@ -336,7 +336,7 @@ const products = [
 
     priceLabel: "Contact for Price",
 
-    image: "/pictures/LNS-SB-002.png",
+    image: "/pictures/lnssb002.jpg",
     
     productDetails: [ { label: "SKU", value: "LNS-SB-002", }, { label: "Material", value: "Teak Wood", }, ],
 
@@ -391,7 +391,7 @@ const products = [
 
     priceLabel: "Contact for Price",
 
-    image: "/pictures/LNS-SB-001.png",
+    image: "/pictures/lnssb001.jpg",
     
     productDetails: [ { label: "SKU", value: "LNS-SB-001", }, { label: "Material", value: "Teak Wood", }, ],
 
@@ -429,7 +429,7 @@ const products = [
 
     priceLabel: "Contact for Price",
 
-    image: "/pictures/LNS-CT-002.png",
+    image: "/pictures/lnsct002.jpg",
     
     productDetails: [ { label: "SKU", value: "LNS-CT-002", }, { label: "Material", value: "Teak Wood", }, { label: "Configuration", value: "3-2-1-1 seater + 2 tables", }, { label: "Carving", value: "Hand-carved floral javanese motif with gold paint", },],
 
@@ -468,7 +468,7 @@ const products = [
 
     priceLabel: "Contact for Price",
 
-    image: "/pictures/LNS-CT-005.png",
+    image: "/pictures/lnsct005.jpg",
     
     productDetails: [ { label: "SKU", value: "LNS-CT-005", }, { label: "Material", value: "Teak Wood", }, { label: "Configuration", value: "L shape corner sofa (6-seater modular) + 1 center table", }, { label: "Custom", value: "finishing can be natural, varnished, or painted", },],
 
@@ -487,7 +487,7 @@ const products = [
 
     priceLabel: "Contact for Price",
 
-    image: "/pictures/LNS-CT-006.png",
+    image: "/pictures/lnsct006.jpg",
     
     productDetails: [ { label: "SKU", value: "LNS-CT-006", }, { label: "Material", value: "Teak Wood", }, { label: "Configuration", value: "6 chairs + 1 table", }, { label: "Custom", value: "finishing can be natural, varnished, or painted", },],
 
@@ -506,7 +506,7 @@ const products = [
 
     priceLabel: "Contact for Price",
 
-    image: "/pictures/LNS-CT-007.png",
+    image: "/pictures/lnsct007.jpg",
     
     productDetails: [ { label: "SKU", value: "LNS-CT-007", }, { label: "Material", value: "Teak Wood", }, { label: "Configuration", value: "3-1-1 + 2 stools + 1 coffee table", }, { label: "Custom", value: "finishing can be natural, varnished, or painted", },],
 
@@ -670,8 +670,8 @@ const products = [
   },
   {
     id: 27,
-    slug: "natural-bali-paras-stone-floral-relief-panel-3d-peony-carving",
-    name: "Natural bali paras stone floral relief panel 3d peony carving",
+    slug: "natural-paras-stone-floral-relief-panel-3d-peony-carving",
+    name: "Natural paras stone floral relief panel 3d peony carving",
     category: "Wall Decor",
     material: "Natural Stone",
 
@@ -682,15 +682,15 @@ const products = [
     productDetails: [ { label: "SKU", value: "LNS-PRS-001", }, { label: "Material", value: "Natural Stone - Batu paras relief panel", },],
 
     shortDescription:
-      "Natural bali paras stone floral relief panel hand carved with 3d peony flowers, leaves and bird, cream white paras stone, for luxury interior and exterior wall decor.",
+      "Natural paras stone floral relief panel hand carved with 3d peony flowers, leaves and bird, cream white paras stone, for luxury interior and exterior wall decor.",
 
     description:
-      "Natural bali paras stone floral relief panel 3d peony carving is made from original batu paras Bali - natural limestone from Bali, Indonesia. Hand carved by Balinese artisans with high relief 3d technique.Design features large central peony flower with 5 small peony buds, detailed carved leaves, stems and small flying bird on top side. Deep carving with textured rough background and clean double line frame border. Natural cream off-white color of paras stone, porous and soft texture typical of batu paras Jogja Bali.Ideal for luxury villa wall, garden wall, resort wall, hotel lobby, entrance gate, or interior feature wall. Batu paras is famous for its natural cooling, easy to carve and elegant natural look, suitable for indoor and outdoor. This panel can be custom size and design, single piece or continuous pattern. Weather resistant and long lasting.",
+      "Natural paras stone floral relief panel 3d peony carving is made from original batu paras - natural limestone from Indonesia. Hand carved by our artisans with high relief 3d technique. Design features large central peony flower with 5 small peony buds, detailed carved leaves, stems and small flying bird on top side. Deep carving with textured rough background and clean double line frame border. Natural cream off-white color of paras stone, porous and soft texture typical of batu paras Jogja Bali. Ideal for luxury villa wall, garden wall, resort wall, hotel lobby, entrance gate, or interior feature wall. Batu paras is famous for its natural cooling, easy to carve and elegant natural look, suitable for indoor and outdoor. This panel can be custom size and design, single piece or continuous pattern. Weather resistant and long lasting.",
   },
   {
     id: 28,
-    slug: "natural-bali-paras-stone-crane-lotus-relief-panel-twin-crane",
-    name: "Natural bali paras stone crane lotus relief panel twin crane",
+    slug: "natural-paras-stone-crane-lotus-relief-panel-twin-crane",
+    name: "Natural paras stone crane lotus relief panel twin crane",
     category: "Wall Decor",
     material: "Natural Stone",
 
@@ -701,10 +701,10 @@ const products = [
     productDetails: [ { label: "SKU", value: "LNS-PRS-002", }, { label: "Material", value: "Natural Stone - Batu paras relief panel", },],
 
     shortDescription:
-      "Natural bali paras stone relief panel hand carved with twin cranes and lotus flowers design, cream white paras stone, vertical tall panel for luxury wall.",
+      "Natural paras stone relief panel hand carved with twin cranes and lotus flowers design, cream white paras stone, vertical tall panel for luxury wall.",
 
     description:
-      "Natural bali paras stone crane lotus relief panel twin crane is original batu paras Bali carving, hand made by Balinese artisans.Features two elegant cranes / herons standing among large lotus flowers and leaves, water waves carving in background. Highly detailed feathers, long necks, lotus petals and stems carved in deep 3d relief with textured background. Tall vertical design with clean frame border.Symbolizes peace, longevity and purity in Asian culture - crane and lotus are very popular for resort, villa and spiritual spaces. Perfect for luxury villa entrance wall, garden wall, swimming pool wall, resort lobby, spa, or temple wall. Batu paras Bali natural cream white color, natural porous texture, suitable for interior and exterior, weather resistant.",
+      "Natural paras stone crane lotus relief panel twin crane is original batu paras carving, hand made by our artisans. Features two elegant cranes / herons standing among large lotus flowers and leaves, water waves carving in background. Highly detailed feathers, long necks, lotus petals and stems carved in deep 3d relief with textured background. Tall vertical design with clean frame border. Symbolizes peace, longevity and purity in Asian culture - crane and lotus are very popular for resort, villa and spiritual spaces. Perfect for luxury villa entrance wall, garden wall, swimming pool wall, resort lobby, spa, or temple wall. Batu paras Bali natural cream white color, natural porous texture, suitable for interior and exterior, weather resistant.",
   },
 ];
 
