@@ -404,7 +404,7 @@ const products = [
   {
     id: 13,
     slug: "compact-round-dining-set-6-chair-space-saver-teak-wood-table",
-    name: "Compact round dining set 6 chair space saver teak wood table",
+    name: "Compact Round Dining Set 6 Chair Space Saver Teak Wood Table",
     category: "Dining Room",
     material: "Teak Wood",
 
@@ -423,7 +423,7 @@ const products = [
   {
     id: 14,
     slug: "royal-javanese-teak-wood-sofa-set-with-gold-carving-3-2-1-1",
-    name: "Royal javanese teak wood sofa set with gold carving 3-2-1-1",
+    name: "Royal Javanese Teak Wood Sofa Set With Gold Carving 3-2-1-1",
     category: "Living Room",
     material: "Teak Wood",
 
@@ -443,7 +443,7 @@ const products = [
   {
     id: 15,
     slug: "unique-crab-shaped-teak-root-outdoor-sofa-set-4-chair-1-table",
-    name: "Unique crab shaped teak root outdoor sofa set 4 chair 1 table",
+    name: "Unique Crab Shaped Teak Root Outdoor Sofa Set 4 Chair 1 Table",
     category: "Garden Set",
     material: "Teak Wood",
 
@@ -462,7 +462,7 @@ const products = [
   {
     id: 16,
     slug: "l-shape-marble-inlay-teak-wood-corner-sofa-set-with-center-table",
-    name: "L shape marble inlay teak wood corner sofa set with center table",
+    name: "L Shape Marble Inlay Teak Wood Corner Sofa Set With Center Table",
     category: "Living Room",
     material: "Teak Wood",
 
@@ -481,7 +481,7 @@ const products = [
   {
     id: 17,
     slug: "carved-floral-teak-wood-dining-set-6-chairs-with-mosaic-inlay-table",
-    name: "Carved floral teak wood dining set 6 chairs with mosaic inlay table",
+    name: "Carved Floral Teak Wood Dining Det 6 Chairs With Mosaic Inlay Table",
     category: "Dining Room",
     material: "Teak Wood",
 
@@ -500,7 +500,7 @@ const products = [
   {
     id: 18,
     slug: "minimalist-lattice-teak-wood-sofa-set-3-1-1-with-2-stools-and-glass-top-table",
-    name: "Minimalist lattice teak wood sofa set 3-1-1 with 2 stools and glass top table",
+    name: "Minimalist Lattice Teak Wood Sofa Set 3-1-1 With 2 Stools and Glass Top Table",
     category: "Living Room",
     material: "Teak Wood",
 
@@ -519,7 +519,7 @@ const products = [
   {
     id: 19,
     slug: "compact-round-marble-dining-set-4-chairs-with-lazy-susan-space-saver",
-    name: "Compact round marble dining set 4 chairs with lazy susan and space saver design",
+    name: "Compact Round Marble Dining Set 4 Chairs With Lazy Susan and Space Saver Design",
     category: "Dining Room",
     material: "Teak Wood",
 
@@ -538,7 +538,7 @@ const products = [
   {
     id: 20,
     slug: "round-carved-teak-wood-dining-set-6-chairs-mosaic-rattan-top-lazy-susan",
-    name: "Round carved teak wood dining set 6 chairs with mosaic rattan top and lazy susan",
+    name: "Round Carved Teak Wood Dining Set 6 Chairs With Mosaic Rattan Top and Lazy Susan",
     category: "Dining Room",
     material: "Teak Wood",
 
@@ -557,7 +557,7 @@ const products = [
   {
     id: 21,
     slug: "luxury-royal-high-back-throne-chair-set-2-chairs-with-stool",
-    name: "Luxury royal high back throne chair set 2 chairs with stool",
+    name: "Luxury Royal High Back Throne Chair Set 2 Chairs With Stool",
     category: "Wedding Furniture",
     material: "Teak Wood",
 
@@ -576,7 +576,7 @@ const products = [
   {
     id: 22,
     slug: "luxury-royal-high-back-throne-chair-set-round-table-gold-velvet",
-    name: "Luxury royal high back throne chair set with round table gold velvet",
+    name: "Luxury Royal High Back Throne Chair Set With Round Table Gold Velvet",
     category: "Wedding Furniture",
     material: "Teak Wood",
 
@@ -595,7 +595,7 @@ const products = [
   {
     id: 23,
     slug: "luxury-royal-high-back-throne-chair-set-crown-carving-red-velvet",
-    name: "Luxury royal high back throne chair set with crown carving red velvet",
+    name: "Luxury Royal High Back Throne Chair Set With Crown Carving Red Velvet",
     category: "Wedding Furniture",
     material: "Teak Wood",
 
@@ -614,7 +614,7 @@ const products = [
   {
     id: 24,
     slug: "luxury-royal-carved-bed-frame-tufted-upholstery",
-    name: "Luxury royal carved bed frame with tufted upholstery",
+    name: "Luxury Royal Carved Bed Frame With Tufted Upholstery",
     category: "Bedroom",
     material: "Teak Wood",
 
@@ -633,7 +633,7 @@ const products = [
   {
     id: 25,
     slug: "luxury-royal-baroque-bed-set-2-side-tables-cream-gold",
-    name: "Luxury royal baroque bed set with 2 side tables cream and gold",
+    name: "Luxury Royal Baroque Bed Set With 2 Side Tables Cream and Gold",
     category: "Bedroom",
     material: "Teak Wood",
 
@@ -652,7 +652,7 @@ const products = [
   {
     id: 26,
     slug: "luxury-royal-gold-carved-bed-frame-red-velvet-tufted",
-    name: "Luxury royal gold carved bed frame red velvet tufted",
+    name: "Luxury Royal Gold Carved Bed Frame Red Velvet Tufted",
     category: "Bedroom",
     material: "Teak Wood",
 
@@ -671,7 +671,7 @@ const products = [
   {
     id: 27,
     slug: "natural-paras-stone-floral-relief-panel-3d-peony-carving",
-    name: "Natural paras stone floral relief panel 3d peony carving",
+    name: "Natural Paras Stone Floral Relief Panel 3d Peony Carving",
     category: "Wall Decor",
     material: "Natural Stone",
 
@@ -690,7 +690,7 @@ const products = [
   {
     id: 28,
     slug: "natural-paras-stone-crane-lotus-relief-panel-twin-crane",
-    name: "Natural paras stone crane lotus relief panel twin crane",
+    name: "Natural Paras Stone Crane Lotus Relief Panel Twin Crane",
     category: "Wall Decor",
     material: "Natural Stone",
 
