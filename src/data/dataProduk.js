@@ -444,7 +444,7 @@ const products = [
     id: 15,
     slug: "unique-crab-shaped-teak-root-outdoor-sofa-set-4-chair-1-table",
     name: "Unique Crab Shaped Teak Root Outdoor Sofa Set 4 Chair 1 Table",
-    category: "Garden Set",
+    category: "Home Decor",
     material: "Teak Wood",
 
     priceLabel: "Contact for Price",
@@ -705,6 +705,215 @@ const products = [
 
     description:
       "Natural paras stone crane lotus relief panel twin crane is original batu paras carving, hand made by our artisans. Features two elegant cranes / herons standing among large lotus flowers and leaves, water waves carving in background. Highly detailed feathers, long necks, lotus petals and stems carved in deep 3d relief with textured background. Tall vertical design with clean frame border. Symbolizes peace, longevity and purity in Asian culture - crane and lotus are very popular for resort, villa and spiritual spaces. Perfect for luxury villa entrance wall, garden wall, swimming pool wall, resort lobby, spa, or temple wall. Batu paras Bali natural cream white color, natural porous texture, suitable for interior and exterior, weather resistant.",
+  },
+  {
+    id: 29,
+    slug: "black-stone-candi-bentar-split-gate",
+    name: "Black Stone Candi Bentar Split Gate",
+    category: "Architecture",
+    material: "Natural Stone",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/lnslv001.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LNS-LV-001", }, ],
+
+    shortDescription:
+      "Traditional black lava stone candi bentar split gate with tiered carvings, located over water with lake and green hills background.",
+
+    description:
+      "Black stone candi bentar split gate is iconic Balinese traditional entrance gate made from black lava stone. Design features two symmetrical tall towers with multi-tiered temple roof carvings, ornate side wings and classic Balinese motifs. The dark stone texture gives strong, sacred and timeless impression. This structure is often placed at entrance of temple, resort, villa, or cultural park to create dramatic and authentic Balinese atmosphere. In this photo, gate stands on dark stone platform over lake water, with small island garden and forest hills behind, showing serene natural setting. Suitable as landmark, photo spot, or entrance feature for Balinese themed property.",
+  },
+  {
+    id: 30,
+    slug: "black-stone-3-tier-lotus-fountain",
+    name: "Black Stone 3 Tier Lotus Fountain",
+    category: "Home Decor",
+    material: "Natural Stone",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/lnslv003.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LNS-LV-003", }, ],
+
+    shortDescription:
+      "3 tier black lava stone lotus fountain with scalloped bowls, carved pedestal base and stacked crown top for garden water feature.",
+
+    description:
+      "Black stone 3 tier lotus fountain is classic outdoor water fountain made from black lava stone. Features large bottom bowl with lotus petal edge and ornate carved base, medium middle bowl with same petal detail, and two small upper trays with intricate crown, creating beautiful cascading water flow from top to bottom. Dark black finish gives elegant and natural look, suitable for garden, patio, villa entrance, temple area or hotel landscape. Durable, weather resistant, and provides soothing sound of flowing water. Hand carved by stone artisans with detailed floral and scroll carvings on each tier.",
+  },
+  {
+    id: 31,
+    slug: "black-lava-stone-japanese-garden-lantern-set",
+    name: "Black Lava Stone Japanese Garden Lantern Set",
+    category: "Home Decor",
+    material: "Natural Stone",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/lnslv005.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LNS-LV-005", }, ],
+
+    shortDescription:
+      "Set of black lava stone Japanese garden lanterns with pagoda roofs, straight and curved pedestal designs, ideal for outdoor landscape decoration.",
+
+    description:
+      "Black Lava Stone Japanese Garden Lantern Set is a collection of traditional Japanese Tōrō lanterns handcrafted from natural black lava stone. The set includes two popular designs: one with a tall straight square pedestal and one with an elegant curved S-shape base, both topped with a classic pagoda roof with pointed finial and a light house with window openings. The natural rough black stone texture gives an authentic Zen and Balinese-Japanese fusion look, creating a calm and spiritual atmosphere in any outdoor space. Perfect for garden paths, villa entrances, resort landscapes, patios, and temple gardens. The lanterns are weather-resistant, durable, and can be fitted with a light for soft evening illumination. Hand-carved by skilled artisans in Bali.",
+  },
+  {
+    id: 32,
+    slug: "large-white-pot",
+    name: "Extra Large White Pot",
+    category: "Home Decor",
+    material: "Natural Stone",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/lsnpt002.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LSN-PT-002", }, ],
+
+    shortDescription:
+      "Extra large pot for indoor home decor.",
+
+    description:
+      "Extra large pot for indoor home decor. Creating a fresh tropical accent for any interior. Perfect for living room corners, office spaces, entryways, or beside large windows.",
+  },
+  {
+    id: 33,
+    slug: "tall-terrazzo-outdoor-garden-planter-pot",
+    name: "Tall Terrazzo Outdoor Garden Planter Pot",
+    category: "Home Decor",
+    material: "Natural Stone",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/lsnpt008.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LSN-PT-008", }, ],
+
+    shortDescription:
+      "Tall cylindrical terrazzo planter pot in beige speckled finish for outdoor garden, patio and indoor large plants.",
+
+    description:
+      "Tall Terrazzo Outdoor Garden Planter Pot is a modern minimalist planter made from terrazzo composite with beige base and grey-black speckled texture. Features a tall, rounded U-shape cylinder design with thick walls and smooth matte finish. Ideal for large indoor and outdoor plants such as Monstera, palm, frangipani, or artificial trees. The neutral stone look blends well with modern, Balinese, and Scandinavian decor styles. Durable, weather resistant and suitable for villa gardens, hotel lobbies, patios, and office entrances. Available in various sizes and colors including white, black and natural stone.",
+  },
+  {
+    id: 34,
+    slug: "carved-terracotta-garden-planter-pot-with-wavy-rim",
+    name: "Carved Terracotta Garden Planter Pot With Wavy Rim",
+    category: "Home Decor",
+    material: "Natural Stone",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/lsnpy001.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LSN-PY-001", }, ],
+
+    shortDescription:
+      "Large carved terracotta planter pot with wavy ruffled rim and floral embossed pattern, perfect for outdoor garden and tropical plants.",
+
+    description:
+      "Carved Terracotta Garden Planter Pot With Wavy Rim is a traditional handmade garden pot crafted from natural terracotta clay. It features a distinctive wavy ruffled top edge and beautiful hand-carved embossed details with floral motifs and rope border around the body. The warm burnt orange terracotta color gives a natural rustic and Balinese classic charm to any space. Ideal for outdoor garden decoration, villa landscapes, patios, or for planting large tropical plants like Calathea, palm, and frangipani. Made from breathable and durable terracotta, it is good for plant root health and suitable for indoor and outdoor use.",
+  },
+  {
+    id: 35,
+    slug: "natural-woven-bamboo-basket-planter-with-seagrass-trim",
+    name: "Natural Woven Bamboo Basket Planter With Seagrass Trim",
+    category: "Baskets & Storage ",
+    material: "Natural Bamboo, Seagrass Rope, Jute Handles",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/lnsbsk001.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LNS-BSK-001", }, ],
+
+    shortDescription:
+      "Handmade natural woven bamboo basket planter with seagrass rope trim and jute handles for indoor plants and storage.",
+
+    description:
+      "Natural Woven Bamboo Basket Planter With Seagrass Trim is a handmade eco-friendly basket crafted from natural bamboo with traditional herringbone weave pattern. Features a natural bamboo rim and decorative thick seagrass rope wrapping around the top, plus two sturdy twisted jute rope handles for easy carrying. Perfect as a plant pot cover for indoor plants, laundry storage, toys organizer, or as a decorative home storage basket. The light natural beige color adds a warm, boho, Scandinavian and Balinese touch to living rooms, bedrooms, and balconies. Lightweight, durable and sustainable.",
+  },
+  {
+    id: 36,
+    slug: "small-woven-bamboo-baskets-with-handle",
+    name: "Small Woven Bamboo Baskets With Handle",
+    category: "Baskets & Storage ",
+    material: "Natural Bamboo, Seagrass Rope, Jute Handles",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/lnsbsk003.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LNS-BSK-003", }, ],
+
+    shortDescription:
+      "Small natural woven bamboo baskets with bamboo loop handles for small plant pots and storage.",
+
+    description:
+      "Small Woven Bamboo Baskets With Handle is a set of three small round baskets handmade from natural light bamboo with tight herringbone weave pattern. Each basket has a smooth bamboo rim and two small upright bamboo handles. Perfect as small plant pot covers for succulents, cactus, and herbs, or for organizing small items, keys, snacks, and gift hampers. The compact size and natural beige color add a warm, boho, minimalist and eco-friendly touch to kitchens, bathrooms, desks and tabletops. Lightweight, durable and sustainable.",
+  },
+  {
+    id: 37,
+    slug: "handmade-woven-bamboo-storage-basket-with-lid-and-handle",
+    name: "Handmade Woven Bamboo Storage Basket With Lid And Handle",
+    category: "Baskets & Storage ",
+    material: "Natural Bamboo, Seagrass Rope, Jute Handles",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/lnsbsk002.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LNS-BSK-002", }, ],
+
+    shortDescription:
+      "Handmade natural bamboo woven storage basket with lid and bamboo handle, traditional openwork weave for food, rice and gift hamper.",
+
+    description:
+      "Handmade Woven Bamboo Storage Basket With Lid And Handle is a traditional handmade basket crafted from natural light bamboo with a combination of openwork lace weave and tight weave pattern. It comes with a fitted lid and a sturdy bamboo handle with wooden button lock closure to keep contents secure. Ideal for storing rice, cakes, fruits, and snacks, or used as a gift hamper basket, picnic basket, and home storage organizer. The natural light beige color and intricate woven details add a rustic, traditional Balinese and boho charm to any space. Lightweight, breathable, durable and eco-friendly. Available in round and rectangular shapes.",
+  },
+  {
+    id: 38,
+    slug: "round-woven-bamboo-tray-basket",
+    name: "Round Woven Bamboo Tray Basket",
+    category: "Baskets & Storage ",
+    material: "Natural Bamboo, Seagrass Rope, Jute Handles",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/lnstry001.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LNS-TRY-001", }, ],
+
+    shortDescription:
+      "Natural handmade round woven bamboo tray basket with herringbone pattern for fruits, snacks and storage.",
+
+    description:
+      "Round Woven Bamboo Tray Basket is a handmade shallow basket made from natural bamboo with beautiful herringbone and open dot weave pattern. It features a thick rounded bamboo rim for extra strength and durability. Ideal for serving fruits, bread, snacks, drying foods, or as a decorative organizer tray for home, kitchen, and restaurant. The natural light honey bamboo color brings a warm rustic and eco-friendly boho charm. Lightweight, breathable, food-safe and sustainable.",
+  },
+  {
+    id: 39,
+    slug: "oval-woven-bamboo-basket-with-handle",
+    name: "Oval Woven Bamboo Basket With Handle",
+    category: "Baskets & Storage ",
+    material: "Natural Bamboo, Seagrass Rope, Jute Handles",
+
+    priceLabel: "Contact for Price",
+
+    image: "/pictures/lnstry002.jpg",
+    
+    productDetails: [ { label: "SKU", value: "LNS-TRY-002", }, ],
+
+    shortDescription:
+      "Oval handmade woven bamboo baskets with tall handle for fruit, gifts and traditional hampers.",
+
+    description:
+      "Oval Woven Bamboo Basket With Handle is a set of three oval baskets handmade from natural light bamboo. Features a tight dotted flat weave base and herringbone pattern side wall with strong rounded rim. Each basket has a tall arched bamboo handle for easy carrying.Perfect for use as fruit basket, gift hamper basket, traditional offering basket, cake and snack basket, and decorative storage organizer. The natural honey beige color and handwoven details add a rustic, Balinese traditional and eco-friendly boho style to any space. Ideal for home, kitchen, ceremonies, weddings and special occasions. Lightweight, breathable, durable and sustainable.",
   },
 ];
 
