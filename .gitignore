@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+
+# Local environment variables /file prohibited to publi
+.env
+.env.local
+.env.*.local
+
